@@ -1,16 +1,39 @@
-## Hi there 👋
+# Ork Rahman
 
-<!--
-**orkrahman97/orkrahman97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Software Implementation Engineer | Machine Learning Enthusiast | SQL | Python 
 
-Here are some ideas to get you started:
+I'm a data-driven problem solver passionate about building smart solutions that matter. With a strong background in **data analysis**, **machine learning**, and **software implementation**, I turn complex data into clear insights and real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🔍 What I'm Into
+- 🔭 **Currently working on:** ML, Data Science, and AI projects
+- 🌱 **Learning:** Real-world data pipelines, ML deployment, and more
+- 👯 **Collaborating on:** Projects in data, AI, or full-stack dev
+
+
+
+
+## 🛠️ Skills & Tools
+- **Data Analysis:** Python (Pandas, NumPy), Excel
+- **Machine Learning:** Scikit-learn, logistic regression, KNN, decision trees
+- **SQL:** Advanced queries, performance tuning
+- **Software Implementation:** Full deployment + support
+- **Web Dev:** Django, HTML, CSS
+- **Testing:** Apache JMeter
+- **Embedded Systems:** 8051 microcontroller
+
+---
+
+## 🌟 Highlight Projects
+- 💧 **Water Potability Prediction**
+- 💊 **Osud Lagbe (Online Medicine App)**
+- 🩺 **CKD Detection Model**
+- 🔐 **Password-Based Door Lock System**
+- ⚙️ **Performance Testing with JMeter**
+
+---
+
+📍 Dhaka, Bangladesh  
+🔗 [GitHub](https://github.com/orkrahman97)  
+🔗 [LinkedIn](https://www.linkedin.com/in/orkrahman/)
