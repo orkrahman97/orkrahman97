@@ -1,6 +1,6 @@
 # Ork Rahman
 
-## Data Analyst | Software Implementation Engineer | Machine Learning Enthusiast | SQL | Python 
+## Data Analyst & Visualization | Software Implementation Engineer | Machine Learning Enthusiast | SQL | Python 
 
 I'm a data-driven problem solver passionate about building smart solutions that matter. With a strong background in **data analysis**, **machine learning**, and **software implementation**, I turn complex data into clear insights and real-world impact.
 
